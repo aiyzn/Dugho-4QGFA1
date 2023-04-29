@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Space+Mono&family=VT323&display=swap');
+/*
+font-family: 'Aboreto', cursive;
+font-family: 'Space Mono', monospace;
+font-family: 'VT323', monospace;
+*/
+body{
+  background-image: url(bg-image.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header{
+	font-family: 'Space Mono', monospace;
+	text-align: center;
+  	color: black;
+}
+
+h1{
+	text-align: center;	
+}
+
+h2{
+	font-family: 'Space Mono', monospace;
+}
+
+p{
+	font-family: 'Space Mono', monospace;
+	text-align: center;
+}
+
+div.reason{
+	padding: 25;
+	border-radius: 25px;
+	margin: 50px auto 50px;
+	text-align: center;
+	width: 70%;
+}
+
+div.sign-up{
+	padding: 25;
+	border-radius: 25px;
+	margin: 50px auto 50px;
+	text-align: center;
+	font-family: 'Space Mono', monospace;
+}
+
